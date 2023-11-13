@@ -1,5 +1,3 @@
-module github.com/wwqk4444/kcp-go/v5
-
 require (
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/klauspost/reedsolomon v1.9.9
